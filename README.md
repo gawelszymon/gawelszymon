@@ -5,7 +5,7 @@
   blockchain technology as well.</p>
 </div>
 
-# My Tools
+
 <div align="center">
   <h2>My Tools</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
