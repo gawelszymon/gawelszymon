@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi, It's Szymon Gaweł there 👋</h3>
+  <h1>Hi, It's Szymon Gaweł there 👋</h1>
   <p>I can definitely say I’ve found a passion in IT. I would love to develop myself in a concrete field of 
   the IT industry and derive satisfaction from some ambitious projects and tasks. I am a bit interested in
   blockchain technology as well.</p>
