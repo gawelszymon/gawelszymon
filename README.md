@@ -4,6 +4,8 @@
   the IT industry and derive satisfaction from some ambitious projects and tasks. I am a bit interested in
   blockchain technology as well.</p>
 </div>
+<br><br>
+<br><br>
 
 
 <div align="center">
@@ -17,10 +19,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="75" height="75">
   </div>
 </div>
+<br><br>
+<br><br>
 
 # Contact me!
 [szymon.gawel.szg@gmail.com](mailto:szymon.gawel.szg@gmail.com)
+<br><br>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawelszymon&layout=compact)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawelszymon&layout=compact)
+</div>
+
 
