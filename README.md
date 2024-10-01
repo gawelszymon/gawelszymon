@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi, It's Szymon Gaweł there 👋</h1>
   <p>I can definitely say I’ve found a passion in IT. I would love to develop myself in a concrete field of 
-  the IT industry and derive satisfaction from some ambitious projects and tasks. I am a bit interested in
-  blockchain technology as well.</p>
+  the IT industry and derive satisfaction from some ambitious projects and tasks.</p>
 </div>
 <br><br>
 <br><br>
@@ -27,7 +26,8 @@
 <br><br>
 
 ---
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawelszymon&layout=compact" alt="Top Languages">
 </div>
-
+-->
