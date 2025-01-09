@@ -1,11 +1,15 @@
 <div align="center">
   <h1>Hi, It's Szymon Gaweł there 👋</h1>
   <p>I can definitely say I’ve found a passion in IT. I would love to develop myself in a concrete field of 
-  the IT industry and derive satisfaction from some ambitious projects and tasks.</p>
+  the IT industry and derive satisfaction from some ambitious projects and tasks. Please make yourself at home and check out carefully all my projects!</p>
 </div>
 <br><br>
 <br><br>
-
+<div align="center">
+  [![myLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawelszymon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br><br>
+<br><br>
 <div align="center">
   <h2>My Tools</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
