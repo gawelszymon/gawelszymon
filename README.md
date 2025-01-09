@@ -4,11 +4,11 @@
   the IT industry and derive satisfaction from some ambitious projects and tasks. Please make yourself at home and check out carefully all my projects!</p>
 </div>
 <br><br>
-<br><br>
 <div align="center">
-  [![myLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawelszymon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <a>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gawelszymon&layout=compact&theme=radical" alt="my languages" />
+  </a>
 </div>
-<br><br>
 <br><br>
 <div align="center">
   <h2>My Tools</h2>
