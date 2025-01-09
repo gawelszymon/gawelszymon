@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, It's Szymon Gaweł there 👋</h1>
   <p>I can definitely say I’ve found a passion in IT. I would love to develop myself in a concrete field of 
-  the IT industry and derive satisfaction from some ambitious projects and tasks. Please make yourself at home and check out carefully all my projects!</p>
+  the industry to derive satisfaction from some ambitious projects and tasks. Please make yourself at home and check out carefully all my works!</p>
 </div>
 <br><br>
 <div align="center">
