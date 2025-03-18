@@ -3,6 +3,11 @@
   <p>I can definitely say I’ve found a passion in IT. I would love to develop myself in a concrete field of 
   the industry to derive satisfaction from some ambitious projects and tasks. Please make yourself at home and check out carefully all my work!</p>
 </div>
+<div align="center">
+  <a href="https://leetcode.com/gawelszymon/">
+    <img src="https://img.shields.io/badge/LeetCode-gawelszymon-blue?" alt="LeetCode">
+  </a>
+</div>
 <br><br>
 <div align="center">
   <a>
