@@ -10,12 +10,6 @@
 </div>
 <br><br>
 <div align="center">
-  <a>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gawelszymon&layout=compact&theme=radical" alt="my languages" />
-  </a>
-</div>
-<br><br>
-<div align="center">
   <h2>My Tools</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="75" height="75">
