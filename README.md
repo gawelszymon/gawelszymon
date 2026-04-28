@@ -4,6 +4,6 @@
   </a>
 </div>
 
-# Contact me
+Contact me
 [szymon.gawel.szg@gmail.com](mailto:szymon.gawel.szg@gmail.com)
 <br><br>
